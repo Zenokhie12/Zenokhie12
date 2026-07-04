@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="[https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100](https://capsule-render.vercel.app/api?type=waving&height=300&color=0055DA&text=More%20Blue-nl-Less%20Noise&fontColor=121358&fontSize=60&fontAlignY=30&animation=fadeIn)"/>
 </p>
 
 <!--

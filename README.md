@@ -1,6 +1,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0055DA&text=More%20Blue%20-nl-Less%20Noise&fontColor=121358&fontSize=60&fontAlignY=30&animation=fadeIn" />
 
+<a href="[https://www.instagram.com/thepiyushmalhotra/](https://web.facebook.com/almoain.algamar.7)">
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/05282130-2646-4a20-a5a4-515584d5162a" />
+</a>
+
 <!--
 ## Hi there 👋
 **Zenokhie12/Zenokhie12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

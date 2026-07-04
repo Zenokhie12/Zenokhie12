@@ -50,8 +50,19 @@ current_goals: [
 ]
 ```
 <div align="center">
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Zenokhie12&include_all_commits=true&theme=solarized-light)](https://github-stats-extended.vercel.app/api?username=Zenokhie12&include_all_commits=true&theme=solarized-light)
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Zenokhie12&langs_count=4&theme=solarized-light)](https://github-stats-extended.vercel.app/api/top-langs?username=Zenokhie12&langs_count=4&theme=solarized-light)
+</div>  
+
+
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0055DA&section=footer&fontColor=001BB7">
 </div>
+
+![Snake animation](https://github.com/Zenokhie12/Zenokhie12/blob/output/github-contribution-grid-snake.svg)
     
 <!--
 ## Hi there 👋

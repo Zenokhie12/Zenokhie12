@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=waving&height=300&color=0055DA&text=More%20Blue-nl-Less%20Noise&fontColor=121358&fontSize=60&fontAlignY=30&animation=fadeIn)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0055DA&text=More%20Blue-nl-Less%20Noise&fontColor=121358&fontSize=60&fontAlignY=30&animation=fadeIn" />
 
 <!--
 ## Hi there 👋

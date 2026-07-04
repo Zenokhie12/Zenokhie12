@@ -5,7 +5,6 @@
     Hi, Let us connect and have a chat <img height="16" src="https://www.svgrepo.com/show/448623/smile.svg">
   </p>
 </div>
-
 <div align="center" >
     <a href="https://web.facebook.com/almoain.algamar.7">
       <img height="50" src="https://www.svgrepo.com/show/521654/facebook.svg"  
@@ -15,8 +14,16 @@
     </a>
 </div>
 
+<div>
+  
+</div>
 ```yaml
-* YOUR TEXT GOES HERE *
+name: Al-moain U. Algamar
+located_in: Marawi City, Lanao Del Sur, Philippines
+major: BSIT - Database System
+education: [
+  "Mindanao State University - Main Campus"
+]
 ```
     
 <!--

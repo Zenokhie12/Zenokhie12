@@ -6,16 +6,16 @@
   </p>
 </div>
 
-<div style="display:flex;justify-content:center;gap:20px;padding:10px;" >
-  <a href="https://web.facebook.com/almoain.algamar.7">
-    <img height="50" src="https://www.svgrepo.com/show/521654/facebook.svg"  
-  </a>
-  <a href="https://www.instagram.com/al_mon3yy?igsh=dTY1cWtoenNneHR4">
-    <img height="50" src="https://www.svgrepo.com/show/521711/instagram.svg"  
-  </a>
-  </div>
+<div align="center" >
+    <a href="https://web.facebook.com/almoain.algamar.7">
+      <img height="50" src="https://www.svgrepo.com/show/521654/facebook.svg"  
+    </a>
+    <a href="https://www.instagram.com/al_mon3yy?igsh=dTY1cWtoenNneHR4">
+      <img height="50" src="https://www.svgrepo.com/show/521711/instagram.svg"  
+    </a>
+</div>
     
-<--
+<!--
 ## Hi there 👋
 **Zenokhie12/Zenokhie12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

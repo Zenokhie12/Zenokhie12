@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0055DA&text=More%20Blue%20-nl-Less%20Noise&fontColor=121358&fontSize=60&fontAlignY=30&animation=fadeIn" />
-
 <div align="center">
-  <p style="color:#95CCDD;font-size:23px;font-weight:2px;-webkit-text-stroke: 2px #293681;">
-    Hi, Let us connect and have a chat <img height="16" src="https://www.svgrepo.com/show/448623/smile.svg">
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0055DA&text=More%20Blue%20-nl-Less%20Noise&fontColor=121358&fontSize=60&fontAlignY=30&animation=fadeIn" />
 </div>
+
+<h2 align="center" style="color:#95CCDD;font-size:23px;font-weight:2px;-webkit-text-stroke: 2px #293681;">
+  Hi, Let us connect and have a chat <img height="20" src="https://www.svgrepo.com/show/448623/smile.svg">
+</h2>
 <div align="center" >
     <a href="https://web.facebook.com/almoain.algamar.7">
       <img height="50" src="https://www.svgrepo.com/show/521654/facebook.svg"  
@@ -14,9 +14,12 @@
     </a>
 </div>
 
-<div>
-  
-</div>
+<h3>
+  <img height="25" alt="image" src="https://github.com/user-attachments/assets/e4607c78-1b18-4c38-a144-7151c0755368" />
+  A Little Things About Me and My Interests
+</h3>
+<hr>
+
 ```yaml
 name: Al-moain U. Algamar
 located_in: Marawi City, Lanao Del Sur, Philippines
@@ -24,7 +27,31 @@ major: BSIT - Database System
 education: [
   "Mindanao State University - Main Campus"
 ]
+projects_in_progress: [
+    "Capstone System - AQUALANAOGIS",
+    "Personal Portfolio Website V2"
+]
+technical_skills: [
+    "Enterprise Web Apps via C# MVC Architecture",
+    "Building robust backends and logic with Python",
+    "Crafting dynamic user interfaces using Vue.js",
+    "Designing and querying databases with MySQL",
+    "Managing codebases and workflows using Git/GitHub"
+]
+academic_interests: [
+    "Software Quality Assurance",
+    "Artificial Intelligence",
+    "Information Enginnering",
+    "Systems Integration and Maintenance"
+]
+current_goals: [
+    "Successfully Defend the Capstone Project",
+    "Apply for competitive Hybrid internships"
+]
 ```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0055DA&section=footer&fontColor=001BB7">
+</div>
     
 <!--
 ## Hi there 👋
